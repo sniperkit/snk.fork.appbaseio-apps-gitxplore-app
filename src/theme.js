@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 const theme = {
 	typography: {
 		fontFamily: 'Raleway, Helvetica, sans-serif',
